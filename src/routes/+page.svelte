@@ -5,21 +5,23 @@
 </script>
 
 <Header />
-
+<!-- Make pixelated font -->
 <div id="parent">
   <div id="BodyText">
-    <h3>[ Who am I? ]</h3>
+    <h3>> Who am I?</h3>
     <p>
-      Hi! I'm David, a student at Rensselaer Polytechnic Institue dual majoring in <u>Computer Science</u> as well as <u>Information Technology and Web Sciences</u>.<br>
+      Hi! I'm David, a student at Rensselaer Polytechnic Institue dual majoring in <u>Computer Science</u> and <u>Information Technology and Web Sciences</u>.<br>
+      I love all things science, and I enjoy reading, especially sci-fi books.<br>
+      Programming is my hobby and my passion, and I love to learn new things.
     </p>
-    <h3>[ Contacts ]</h3>
+    <h3>> Contacts</h3>
     └ Email: davidkcoletta@gmail.com<br>
     └ Discord: chickoon<br>
     └ <a href="https://www.linkedin.com/in/david-coletta-6557a3252/" target="_blank">LinkedIn</a><br>
     └ <a href="https://github.com/DavidColetta" target="_blank">GitHub</a><br>
   </div>
   <div id="BodyText2">
-    <h3><a href="/projects">[ Projects ]</a></h3>
+    <h3><a href="/projects">> Projects </a></h3>
     └ <a href="https://devpost.com/software/solar-roulette" target="_blank">Solar Roulete (HackRPI 2022 Winner)</a><br>
     └ <a href="https://chickoonlord.itch.io/space-defense" target="_blank">Space Defense</a><br>
     └ <a href="https://infomatrix.cyclic.app/" target="_blank">Infomatrix</a><br>

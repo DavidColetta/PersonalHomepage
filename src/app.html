@@ -4,6 +4,15 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width" />
+		
+		<!-- <link href="https://fonts.cdnfonts.com/css/terminal" rel="stylesheet">
+                
+		<style>
+			@import url('https://fonts.cdnfonts.com/css/terminal');
+		</style> -->
+
+		<link rel="stylesheet" href="src\styles.css" />
+		<link rel="stylesheet" href="src\webfontkit\stylesheet.css" />
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
@@ -11,29 +20,3 @@
 	</body>
 </html>
 
-<style>
-body {
-	background-color: #121820;
-	color: #d3f5ff;
-	margin: 0;
-	padding: 0;
-	font-size: 1.1rem;
-	line-height: 1.1;
-	font-family: Consolas, monospace;
-	background: repeating-linear-gradient(
-			0deg,
-			#0E0D0E 25%,
-			#0E0D0E 50%,
-			#171819 50%,
-			#171819 75%
-		);
-	background-size: 10px 10px;
-	animation: barberpole 40s linear infinite;
-}
-
-@keyframes barberpole {
-  100% {
-    background-position: 100% 100%;
-  }
-}
-</style>

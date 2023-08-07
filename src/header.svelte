@@ -12,7 +12,7 @@
 
 <style>
 #header {
-  background-color: #21457a;
+  background-color: rgb(0, 140, 196);;
   padding: 1em;
   padding-bottom: 0.5em;
   text-align: center;
@@ -23,7 +23,6 @@ h1 {
   color: #d3f5ff;
   padding: 0.5em;
   margin: 0%;
-  background-color: #121820;
   border-radius: 1em;
   background: repeating-linear-gradient(
       0deg,
