@@ -5,7 +5,7 @@
 <Header />
 
 <div id="BodyText">
-  <h3>[ Projects ]</h3>
+  <h3>> Projects </h3>
   <p>└ <a href="https://devpost.com/software/solar-roulette" target="_blank">Solar Roulete (HackRPI 2022 Winner)</a><br>
   An educational website which gives users a sense of the scale of our solar system. Pulls data from an API. Made in one weekend as part of the HackRPI 2022 hackathon, where it won 2nd place overall.</p>
   <p>└ <a href="https://chickoonlord.itch.io/space-defense" target="_blank">Space Defense</a><br>
