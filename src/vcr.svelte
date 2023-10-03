@@ -21,7 +21,7 @@
 }
 
 :root {
-  --background: #060608;
+  --background: #ff00ff;
   --color: #d3f5ff;
 }
 /*
